@@ -3,14 +3,14 @@
 > Get information about countries via a RESTful API
 
 ## System requirements
-* **PHP >= 5.5**
+* **PHP >= 7.3**
 
 ## Installation
 Using Composer
-  * `composer require namnv609/php-rest-countries`
+  * `composer require datingvip/php-rest-countries`
 
 or you can include the following in your `composer.json`
-  * `"namnv609/php-rest-countries": "^1.0.0"`
+  * `"datingvip/php-rest-countries": "^1.0.0"`
 
 ## Usage instructions
 
